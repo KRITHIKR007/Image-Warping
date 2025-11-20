@@ -2,7 +2,7 @@
 Example script showing how to use your own image with the Image Warping Experiment
 """
 
-from image_warping_experiment import ImageWarping
+from EP1.image_warping_experiment import ImageWarping
 import cv2
 import numpy as np
 

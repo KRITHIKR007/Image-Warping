@@ -1,12 +1,3 @@
-"""
-Experiment 1: Image Warping
-AIM: To perform image warping using geometric transformations such as scaling, rotation, translation, and perspective transformation.
-OBJECTIVE: 
-- To understand geometric transformation techniques
-- To apply affine/perspective transformations to modify image shape and orientation
-- To observe how pixel mapping and interpolation affect the warped output
-"""
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
